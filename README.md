@@ -11,7 +11,7 @@ This tool is for *educational purposes only*. Do not use it without permission a
 - Saves logs daily
 
 + How to use
-Open windows cmd
-Take sure to change the directory into the Keylogger project file
-Type in python keylogger.py
-Watch the magic happen
+- Open windows cmd
+- Take sure to change the directory into the Keylogger project file
+- Type in python keylogger.py
+- Watch the magic happen
